@@ -27,7 +27,6 @@ Python is a high-level, interpreted, general-purpose programming language. It is
   **Error handling:** Done using try and except blocks.
 
 ## Fundamentos de Python
-## Python Fundamentals
 
 - **Interpretado:** Python ejecuta el código línea por línea, lo que facilita la depuración y el desarrollo rápido.  
   **Interpreted:** Python executes code line by line, making debugging and rapid development easier.
