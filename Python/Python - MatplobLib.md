@@ -70,3 +70,78 @@ A lo largo de este tema, aprendí a:
 - Seguir un proceso paso a paso para transformar datos en representaciones visuales significativas y fáciles de interpretar.
 
 Estas habilidades te permitirán comunicar hallazgos con mayor claridad, tomar decisiones basadas en datos y contar historias visuales que realmente conecten con tu audiencia.
+
+---
+
+# Data Visualization (English Translation)
+
+Data visualization is the process of transforming raw information into visual representations—such as charts, diagrams, or maps—to make it more understandable and interpretable.
+
+Its main goal is to communicate information clearly, effectively, and accessibly, even when dealing with complex data. Good visualization helps any audience easily understand what the data is telling us.
+
+Data visualization is more present in our lives than we think: maps guide us geographically, charts in the news show us the evolution of economic indicators, and diagrams in manuals teach us step by step how to assemble furniture. All these visual forms allow us to grasp information more quickly and easily.
+
+---
+
+## Why is Data Visualization Important?
+
+Data visualization is important for the following reasons:
+
+- **Facilitates understanding:** Our brain processes images faster than text or numbers. Seeing a chart can be much more intuitive than reading a long table.
+- **Reveals patterns and trends:** Relationships or behaviors within data often become evident only when visualized.
+- **Communicates effectively:** A well-designed chart can condense complex information into an image that is easy to interpret, even for non-technical people.
+- **Supports decision-making:** Presenting data visually makes it easier to spot opportunities, problems, or needs that guide sound decisions.
+- **Detects errors and outliers:** Visualizations help identify inconsistent or unexpected data that might go unnoticed in other formats.
+- **Tells stories through data:** Beyond numbers, a visualization can tell a story that emotionally connects with the audience, making the information more memorable and meaningful.
+
+---
+
+## 1.1 Common Types of Visualizations and When to Use Them
+
+There are various types of visualizations, each with a specific purpose. Below are the most commonly used and when to use them:
+
+- **Bar charts:** Ideal for comparing values between different categories clearly and directly.
+- **Line charts:** Used to show how data changes over time or to analyze the relationship between continuous variables.
+- **Pie charts:** Represent proportions within a set. Best used when there are few categories, as too many can make interpretation difficult.
+- **Histograms:** Show the distribution of a numerical variable by dividing data into intervals or ranges.
+- **Scatter plots:** Help identify the relationship or correlation between two numerical variables.
+- **Maps:** Useful for displaying data with a geographic dimension, such as distribution by region or country.
+- **Flowcharts:** Represent step-by-step processes or the flow of information within a system.
+
+---
+
+## 1.2 Basic Principles for Effective Visualization
+
+For a visualization to effectively communicate information, keep these principles in mind:
+
+- **Clarity:** The message should be easy to understand.
+- **Accuracy:** Data should be represented faithfully, without distortion.
+- **Simplicity:** Avoid unnecessary elements that may distract.
+- **Accessibility:** The visualization should be understandable for the entire audience, regardless of technical level.
+- **Consistency:** Use colors, scales, and formats consistently.
+
+---
+
+## 1.3 How to Turn Data into an Effective Visualization
+
+Before creating a visualization, follow these steps to turn data into clear and meaningful information:
+
+1. **Ask a question:** Clearly define what you want to understand or communicate from the data.
+2. **Select relevant data:** Identify the information needed to answer your question accurately.
+3. **Clean and prepare the data:** Ensure the data is complete, organized, and in a suitable format for visualization.
+4. **Choose the right type of visualization:** Decide which chart or diagram best represents the message you want to convey.
+5. **Create the visualization:** Use a tool (to be introduced later) to build the chart clearly and effectively.
+6. **Interpret and communicate the results:** Analyze what the visualization reveals and share the findings in a clear and meaningful way for your audience.
+
+---
+
+## Conclusion
+
+Throughout this topic, I learned to:
+
+- Understand what data visualization is and why it is essential for clear and effective communication.
+- Identify the most common types of visualizations and when to use them based on the data's purpose.
+- Recognize the basic principles that make a visualization clear, accurate, and accessible.
+- Follow a step-by-step process to turn data into meaningful and easy-to-interpret visual representations.
+
+These skills will help you communicate findings more clearly, make data-driven decisions, and tell visual stories that truly connect with your audience.
