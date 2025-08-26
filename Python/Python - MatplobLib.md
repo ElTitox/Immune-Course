@@ -1,12 +1,11 @@
 # Visualización de Datos
 
-La visualización de datos es el proceso de transformar información en bruto en representaciones visuales —como gráficos, diagramas o mapas— para hacerla más comprensible e interpretable.
+La visualización de datos es el proceso de transformar información en bruto en representaciones visuales 
+—como gráficos, diagramas o mapas— para hacerla más comprensible e interpretable.
 
 Su principal objetivo es comunicar información de manera clara, eficaz y accesible, incluso cuando se trata de datos complejos. Una buena visualización ayuda a que cualquier audiencia entienda con facilidad lo que los datos nos quieren decir.
 
 La visualización de datos está más presente de lo que pensamos: los mapas nos orientan geográficamente, los gráficos en las noticias nos muestran la evolución de indicadores económicos y los diagramas en los manuales nos enseñan paso a paso cómo montar un mueble. Todas estas formas visuales nos permiten captar la información de manera más rápida y sencilla.
-
----
 
 ## ¿Por qué es importante la visualización de datos?
 
@@ -18,8 +17,6 @@ La visualización de datos es importante por las siguientes razones:
 - **Apoya la toma de decisiones:** Al presentar los datos de forma visual, es más fácil detectar oportunidades, problemas o necesidades que guían decisiones acertadas.
 - **Detecta errores y valores atípicos:** Las visualizaciones permiten identificar datos inconsistentes o inesperados que podrían pasar desapercibidos en otros formatos.
 - **Cuenta historias a través de los datos:** Más allá de los números, una visualización puede narrar una historia que conecte emocionalmente con la audiencia, haciendo la información más memorable y significativa.
-
----
 
 ## 1.1 Tipos comunes de visualizaciones y cuándo utilizarlas
 
@@ -33,8 +30,6 @@ Existen diversos tipos de visualizaciones, cada una con un propósito específic
 - **Mapas:** Útiles para mostrar datos con una dimensión geográfica, como la distribución por regiones o países.
 - **Diagramas de flujo:** Representan procesos paso a paso o el recorrido de información dentro de un sistema.
 
----
-
 ## 1.2 Principios básicos para una visualización efectiva
 
 Para que una visualización cumpla su propósito de comunicar información de forma clara y confiable, es importante tener en cuenta los siguientes principios:
@@ -44,8 +39,6 @@ Para que una visualización cumpla su propósito de comunicar información de fo
 - **Sencillez:** Evita elementos innecesarios que puedan distraer.
 - **Accesibilidad:** La visualización debe ser comprensible para toda la audiencia, independientemente de su nivel técnico.
 - **Consistencia:** Usa colores, escalas y formatos de manera uniforme.
-
----
 
 ## 1.3 ¿Cómo convertir datos en una visualización efectiva?
 
@@ -57,8 +50,6 @@ Antes de crear una visualización, sigue estos pasos para transformar los datos 
 4. **Elegir el tipo de visualización adecuado:** Determina qué tipo de gráfico o diagrama representa mejor el mensaje que deseas transmitir.
 5. **Crear la visualización:** Utiliza una herramienta (que conocerás más adelante) para construir el gráfico de manera clara y efectiva.
 6. **Interpretar y comunicar los resultados:** Analiza lo que revela la visualización y comparte los hallazgos de forma comprensible y significativa para tu audiencia.
-
----
 
 ## Cierre
 
@@ -73,7 +64,7 @@ Estas habilidades te permitirán comunicar hallazgos con mayor claridad, tomar d
 
 ---
 
-# Data Visualization (English Translation)
+# Data Visualization
 
 Data visualization is the process of transforming raw information into visual representations—such as charts, diagrams, or maps—to make it more understandable and interpretable.
 
